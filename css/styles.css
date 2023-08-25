@@ -21,12 +21,6 @@ button {
 }
 
 .span-logotype {    
-        font-family: 'Raleway', sans-serif;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
         color: #2e2f42;
 }
 
@@ -51,7 +45,6 @@ button {
 .contacts-list-link {
     color: #434455;
         font-size: 16px;        
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
@@ -112,7 +105,6 @@ button {
 
 .features-text {    
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
@@ -153,7 +145,6 @@ button {
 .team-pictures-text {
         text-align: center;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
@@ -169,7 +160,6 @@ button {
 
 .portfolio-pictures-text {
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
@@ -182,18 +172,11 @@ button {
 
 .span-logotype-footer {
     color: #F4F4FD;
-        font-family: "Raleway", sans-serif;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
 }
 
 .footer-text {
         color: #F4F4FD;
         font-size: 16px;
-        font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
